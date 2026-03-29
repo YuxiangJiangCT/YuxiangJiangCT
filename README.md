@@ -1,65 +1,84 @@
-# Hi, I'm Yuxiang Jiang
+<div align="center">
 
-**CS @ Cornell Tech '26 · Building privacy-preserving prediction markets**
+# Yuxiang Jiang
 
-I work at the intersection of **Web3, privacy engineering, and AI** — designing systems where users can make predictions, trade, and participate in markets without sacrificing their privacy or relying on centralized gatekeepers.
+**CS @ Cornell Tech '26 · Web3 & Privacy Engineering**
 
-## What I'm Building
+Building privacy-preserving prediction markets and decentralized systems — where users can trade, predict, and participate without sacrificing privacy.
 
-**Prediction Markets + Privacy**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuxiang-ryan-jiang/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yuxiangjiangct.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yj548@cornell.edu)
 
-- [oracle-settler](https://github.com/YuxiangJiangCT/oracle-settler) — Decentralized prediction market with Chainlink CRE, dual-source verification, and AI arbitration. 84 test cases. [Live →](https://oracle-settler.vercel.app)
-- [shadow-bet](https://github.com/YuxiangJiangCT/shadow-bet) — Private prediction markets on Monad using ZK-proof identity concealment. [Live →](https://shadow-bet.vercel.app)
-- [DarkRFQ](https://github.com/YuxiangJiangCT/DarkRFQ) — RFQ execution with Fully Homomorphic Encryption (FHE) on Ethereum. Bids stay encrypted on-chain.
+</div>
 
-**Full-Stack & AI**
+---
 
-- [billassistant](https://github.com/YuxiangJiangCT/billassistant) — AI-powered medical bill decoder. Detects overcharges, generates dispute templates. Built at Cornell Tech Product Studio.
-- [fastapi-trade-service](https://github.com/YuxiangJiangCT/fastapi-trade-service) — Trade order management API with Docker, GitHub Actions CI/CD, and AWS deployment.
+## 🛠 Tech Stack
 
-## Tech Stack
+<div align="center">
 
-```
-Languages    TypeScript · Python · Solidity · Java · SQL
-Frontend     React 19 · Next.js · Vite · TailwindCSS
-Backend      FastAPI · Flask · Node.js · Express
-Blockchain   Ethereum · Flow EVM · Monad · Chainlink CRE
-Privacy      FHE (Fhenix CoFHE) · ZK-Proofs (Unlink SDK)
-Infra        Docker · AWS EC2 · GitHub Actions · Vercel · Supabase
-AI/ML        OpenAI GPT-4o · Google Gemini · OCR (Tesseract)
-```
+**Blockchain & Privacy**
 
-## Connect
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![FHE](https://img.shields.io/badge/FHE-Fhenix%20CoFHE-FF6B35?style=for-the-badge)
+![ZK-Proofs](https://img.shields.io/badge/ZK--Proofs-Unlink%20SDK-8B5CF6?style=for-the-badge)
 
-[Portfolio](https://yuxiangjiangct.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/yuxiang-ryan-jiang/) · [Email](mailto:yj548@cornell.edu)# Hi, I'm Yuxiang Jiang
+**Full-Stack**
 
-**CS @ Cornell Tech '26 · Building privacy-preserving prediction markets**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-I work at the intersection of **Web3, privacy engineering, and AI** — designing systems where users can make predictions, trade, and participate in markets without sacrificing their privacy or relying on centralized gatekeepers.
+**Infra & AI**
 
-## What I'm Building
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Prediction Markets + Privacy**
-- [oracle-settler](https://github.com/YuxiangJiangCT/oracle-settler) — Decentralized prediction market with Chainlink CRE, dual-source verification, and AI arbitration. 84 test cases. [Live →](https://oracle-settler.vercel.app)
-- - [shadow-bet](https://github.com/YuxiangJiangCT/shadow-bet) — Private prediction markets on Monad using ZK-proof identity concealment. [Live →](https://shadow-bet.vercel.app)
-  - - [DarkRFQ](https://github.com/YuxiangJiangCT/DarkRFQ) — RFQ execution with Fully Homomorphic Encryption (FHE) on Ethereum. Bids stay encrypted on-chain.
-   
-    - **Full-Stack & AI**
-    - - [billassistant](https://github.com/YuxiangJiangCT/billassistant) — AI-powered medical bill decoder. Detects overcharges, generates dispute templates. Built at Cornell Tech Product Studio.
-      - - [fastapi-trade-service](https://github.com/YuxiangJiangCT/fastapi-trade-service) — Trade order management API with Docker, GitHub Actions CI/CD, and AWS deployment.
-       
-        - ## Tech Stack
-       
-        - ```
-          Languages      TypeScript · Python · Solidity · Java · SQL
-          Frontend       React 19 · Next.js · Vite · TailwindCSS
-          Backend        FastAPI · Flask · Node.js · Express
-          Blockchain     Ethereum · Flow EVM · Monad · Chainlink CRE
-          Privacy        FHE (Fhenix CoFHE) · ZK-Proofs (Unlink SDK)
-          Infra          Docker · AWS EC2 · GitHub Actions · Vercel · Supabase
-          AI/ML          OpenAI GPT-4o · Google Gemini · OCR (Tesseract)
-          ```
+</div>
 
-          ## Connect
+---
 
-          - [Portfolio](https://yuxiangjiangct.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/yuxiang-ryan-jiang/) · [Email](mailto:yj548@cornell.edu)
+## 🚀 What I'm Building
+
+### Prediction Markets & Privacy
+
+| Project | Description | Stack |
+|---------|------------|-------|
+| [**oracle-settler**](https://github.com/YuxiangJiangCT/oracle-settler) | Decentralized prediction market with Chainlink CRE, dual-source verification, and AI arbitration. 84 test cases. [Live →](https://oracle-settler.vercel.app) | Solidity · React · Chainlink |
+| [**shadow-bet**](https://github.com/YuxiangJiangCT/shadow-bet) | Private prediction markets on Monad with ZK-proof identity concealment. [Live →](https://shadow-bet.vercel.app) | Solidity · React · ZK-Proofs |
+| [**DarkRFQ**](https://github.com/YuxiangJiangCT/DarkRFQ) | RFQ execution with Fully Homomorphic Encryption on Ethereum. Bids stay encrypted on-chain. | Solidity · FHE · React |
+
+### Full-Stack & AI
+
+| Project | Description | Stack |
+|---------|------------|-------|
+| [**billassistant**](https://github.com/YuxiangJiangCT/billassistant) | AI medical bill decoder — detects overcharges, generates dispute templates. Built at Cornell Tech Product Studio. | Flask · OCR · AI |
+| [**fastapi-trade-service**](https://github.com/YuxiangJiangCT/fastapi-trade-service) | Trade order management API with full CI/CD pipeline and AWS deployment. | FastAPI · Docker · AWS |
+| [**receipt-poet**](https://github.com/YuxiangJiangCT/receipt-poet) | Turns blockchain transactions into deadpan, poetic receipt documents. | React · TypeScript · Vite |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YuxiangJiangCT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuxiangJiangCT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YuxiangJiangCT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+  <i>Open to collaborations on Web3 privacy, DeFi protocols, and full-stack engineering.</i>
+</div>
