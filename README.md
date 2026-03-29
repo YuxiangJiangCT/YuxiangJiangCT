@@ -52,6 +52,7 @@ I build scalable backend services, interactive frontends, and end-to-end systems
 
 | Project | Description | Stack |
 |---------|------------|-------|
+| [**polypoll-public**](https://github.com/YuxiangJiangCT/polypoll-public) | Decentralized news polling platform — AI generates prediction markets from news, Chrome extension + FastAPI backend + Supabase. | FastAPI · React · Supabase · Docker |
 | [**billassistant**](https://github.com/YuxiangJiangCT/billassistant) | AI medical bill decoder — detects overcharges, generates dispute templates. Built at Cornell Tech Product Studio. | Flask · GPT-4o · OCR · React |
 | [**fastapi-trade-service**](https://github.com/YuxiangJiangCT/fastapi-trade-service) | Trade order management REST API with Docker containerization, GitHub Actions CI/CD, and AWS EC2 deployment. | FastAPI · Docker · AWS · PostgreSQL |
 | [**receipt-poet**](https://github.com/YuxiangJiangCT/receipt-poet) | Turns blockchain transactions into deadpan, poetic receipt documents. | React · TypeScript · Vite |
