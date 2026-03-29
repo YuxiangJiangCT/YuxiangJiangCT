@@ -68,10 +68,6 @@ Building privacy-preserving prediction markets and decentralized systems — whe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YuxiangJiangCT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuxiangJiangCT&theme=tokyonight" alt="Profile Details"/>
 </div>
 
