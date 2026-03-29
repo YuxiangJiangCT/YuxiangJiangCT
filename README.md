@@ -68,13 +68,17 @@ Building privacy-preserving prediction markets and decentralized systems — whe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YuxiangJiangCT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuxiangJiangCT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=YuxiangJiangCT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YuxiangJiangCT&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuxiangJiangCT&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuxiangJiangCT&theme=tokyonight" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YuxiangJiangCT&theme=tokyonight&utcOffset=-4" alt="Productive Time"/>
 </div>
 
 ---
